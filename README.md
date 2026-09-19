@@ -1,4 +1,4 @@
-# Secure View Once — Single File
+# Secure View Once 
 
 This is a local academic/demo version of the Secure View Once project.
 
